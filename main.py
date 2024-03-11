@@ -6,7 +6,7 @@ from src import printcolors as pc
 from src import artwork
 import sys
 import signal
-
+import requests
 is_windows = False
 
 try:
